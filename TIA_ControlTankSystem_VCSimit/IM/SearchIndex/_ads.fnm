@@ -1,39 +1,0 @@
-þÿÿÿª###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAuthorFamilyUser-defined IDInstance DBText.0Text.1Text.2
-AlarmClassSTL CodeSCL CodeAddressAcknowledgementModelIdEmailAddressAcknowledgedText
-ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
-ServerName
-PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
-LogoutTimeDataType	BackColor	GridColor
-LineColor1
-LineColor2OperatableAreaColor
-VisibilityAboveUpperLimitColorBackFillStyleBelowLowerLimitColorBorderBackColorBorderColor
-DataFormat	EdgeStyleFlashingFont	ForeColorFormatPatternHorizontalAlignmentLayerModeTextOrientationUnitVerticalAlignmentCommonAlarmClassStationNamePartnerNameNodeNameTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCoding
-ConnectionPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
-StartValuePropertyNameTagValueForPropertyTagPageTextFirstGradientColor
-FocusColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorTextOffTextOnVerticalPictureAlignment	FunctionsNameInFunctionalViewNameInDBFullNameInDBTemplateCaptionColorCaptionFontCaptionTextHelpTextInnerBackColorOffInnerBackColorOnSwitchOrientationUITypeEditorBitPositionUITypeEditorTagExpressionUITypeEditorStartvalueUITypeEditorEndvalue
-BlinkColorFillColorModeFlipRotationAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientation
-ScaleColorScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorRangeFromTo	PictureOnAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorCaptionColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
-FilterTextGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeBarColorBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3D
-LabelColorPositionFontThumbBackColor	TickStyleCenterColorDangerLowerRangeColorDangerRangeColor	DialColorDialFillStyleInnerDialColorNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontUnitTextWarningLowerRangeColorWarningRangeColorEvenRowBackColorSelectBackColorSelectForeColorAdaptPicture
-AutoSizingPictureTransparentColorResizingGuid_{11997190-36923}Guid_{11997190-36925}Guid_{11997190-36927}Guid_{11997190-36929}Guid_{11997190-36931}Guid_{11997190-36933}Guid_{11997190-37419}Guid_{11997190-37421}Guid_{11997190-38615}Guid_{11997190-38619}Guid_{11997190-38621}Guid_{11997190-38623}Guid_{11997190-38629}AcknowledgementBitAddressPlcAcknowledgementBitAddressTriggerBitAddress	AlarmText
-TriggerTagDsnModeDataSourceNamePathRestartOptionsStorageMediaThresholdBehaviorAlarmLogGridlineAxisGridlineFillColorGridlineStyle
-RulerColorTableGridlineColorTimeAxisModeTimeAxisSideAlarmAlertAcknowledgementComingGoingText	AlignmentStartingPointDayStartingPointHourStartingPointMinuteStartingPointMonthStartingPointSecondWebLanguageStartScreenWebUxStartScreenHmiDataTypeCodeBackFlashingColorOffBackFlashingColorOnBackFlashingRateBorderFlashingColorOffBorderFlashingColorOnBorderFlashingRateCornerStyleFillingDirectionFillPatternColorFlashingColorOffFlashingColorOnFlashingRateFontNameLineEndShapeStylePictureAlignmentStyleSettingsSubstituteValueToolTipTextTriggerMode
-AlarmText1DisplaySuppressionMask	BlinkMode
-BlinkSpeedBarBackFillStyleLimit4LowerLimitColorLimit4UpperLimitColorLimit5LowerLimitColorLimit5UpperLimitColor
-ScaleStartScalingTypeToleranceLowerLimitColorToleranceUpperLimitColorTrendIndicatorColor
-FrameColorGuid_{11997190-42760}Guid_{11997190-42764}Guid_{11997190-42766}Guid_{11997190-42772}Guid_{11997190-42774}Guid_{11997190-42776}Guid_{11997190-43287})StructureMemberTag_AcquisitionTriggerModeMasterCommentScreenScaleMode	TagPrefixWindowStartupPositionPreCodeHeaderFooterBackPictureThumbPictureBackColorBottomBackColorTopHighLimitColorLowLimitColor
-InputValueProcessValueColumnScrollbarColumnTitleAlignmentControlDesignModeDefaultSortDefaultSort2DefaultSort2ColumnDisplayOptionsDoubleClickActionExportDelimiterExportDirectorynameExportFilenameExportFormatExportFormatGuidExportSelectionGridLineColorHitListDefaultSortHitListRelTimeFactorType	LineColorMessageListTypeRowScrollbarRowTitleAlignmentRTPersistenceRTPersistenceTypeSelectedCellColorSelectedCellForeColorSelectedRowColorSelectedRowForeColorSelectedTitleColorSelectedTitleForeColorSelectionColoringSelectionRectSelectionRectColorSelectionType	ShowTitleSortSequenceStatusbarBackColorStatusbarFontStatusbarFontColor
-TableColorTableColor2TableForeColor2TimeBase
-TitleColorTitleDarkShadowColorTitleForeColorTitleGridLineColorTitleLightShadowColor	TitleSort
-TitleStyleToolbarAlignmentToolbarBackColor
-DateFormatSortDirectionSortDirectionInHitlist
-TimeFormatLabelTooltipTextHotkeyGraphDirectionPercentageAxisAlignmentPercentageAxisColorShowScrollbarsColor	FillColor	FillStyle	LineStyleLineTypeLowerLimitColor
-PointColor
-PointStyleRangeDefinition
-SourceTypeTimeAxisTrendWindowUncertainStateColorUpdateCycleUpperLimitColor	ValueAxisCoarseGridColorFineGridColor
-RulerLayer
-RulerStyle	BeginTimeEndTime	RangeTypeTimeRangeBaseAcquisitionModeAnalogProcessingMethodHysteresisModeLoggingCycleProcessTagTypeNameSupplyingTags
-ProcessTagBinaryProcessingMethod
-DataSource
-AppearanceAuthorizationJobEventTimeStepBaseSort
-TimeColumn
