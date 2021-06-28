@@ -1,0 +1,186 @@
+<HMIMTConfig>
+  <Information Version="7.0.2" Company="SIEMENS AG" Creator="SIEMENS AG" />
+  <Toolbars>
+    <Toolbar Enabled="-1" Visible="-1" PasswordLevel="0" Alignment="2" Name="Toolbar_1" UserData="" MaskColor="16711935" ToolBarStyle="3" ImageSize="16" Dockable="0" ID="1">
+      <ToolbarItems>
+        <ToolbarItem Name="Toolbar_element_1" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick1_14815233_45412" Image="kiet_home.png" ID="2">
+          <LDTexts>
+            <LDText LCID="1033" Text="Main Screen" />
+          </LDTexts>
+          <LDTooltipTexts>
+            <LDText LCID="1033" Text="" />
+          </LDTooltipTexts>
+        </ToolbarItem>
+        <ToolbarItem Name="Toolbar_element_2" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="3" Key="OnMenuToolbarClick2_14815233_45413" Image="kiet_report (2).png" ID="3">
+          <LDTexts>
+            <LDText LCID="1033" Text="Trend Station 1" />
+          </LDTexts>
+          <LDTooltipTexts>
+            <LDText LCID="1033" Text="" />
+          </LDTooltipTexts>
+        </ToolbarItem>
+        <ToolbarItem Name="Toolbar_element_3" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="3" Key="OnMenuToolbarClick3_14815233_45414" Image="kiet_report (2).png" ID="4">
+          <LDTexts>
+            <LDText LCID="1033" Text="Trend Station 2" />
+          </LDTexts>
+          <LDTooltipTexts>
+            <LDText LCID="1033" Text="" />
+          </LDTooltipTexts>
+        </ToolbarItem>
+        <ToolbarItem Name="Toolbar_element_4" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="3" Key="OnMenuToolbarClick4_14815233_45415" Image="kiet_report (2).png" ID="5">
+          <LDTexts>
+            <LDText LCID="1033" Text="Trend Station 3" />
+          </LDTexts>
+          <LDTooltipTexts>
+            <LDText LCID="1033" Text="" />
+          </LDTooltipTexts>
+        </ToolbarItem>
+        <ToolbarItem Name="Toolbar_element_5" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="3" Key="OnMenuToolbarClick5_14815233_45418" Image="kiet_alarm.png" ID="6">
+          <LDTexts>
+            <LDText LCID="1033" Text="Alarm" />
+          </LDTexts>
+          <LDTooltipTexts>
+            <LDText LCID="1033" Text="" />
+          </LDTooltipTexts>
+        </ToolbarItem>
+        <ToolbarItem Name="Toolbar_element_6" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="3" Key="OnMenuToolbarClick6_14815233_45419" Image="kiet_report.png" ID="7">
+          <LDTexts>
+            <LDText LCID="1033" Text="Report" />
+          </LDTexts>
+          <LDTooltipTexts>
+            <LDText LCID="1033" Text="" />
+          </LDTooltipTexts>
+        </ToolbarItem>
+        <ToolbarItem Name="Toolbar_element_7" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="1" Key="OnMenuToolbarClick7_14815233_45420" Image="kiet_user.png" ID="8">
+          <LDTexts>
+            <LDText LCID="1033" Text="User Management" />
+          </LDTexts>
+          <LDTooltipTexts>
+            <LDText LCID="1033" Text="" />
+          </LDTooltipTexts>
+        </ToolbarItem>
+      </ToolbarItems>
+      <LDTexts>
+        <LDText LCID="1033" Text="" />
+      </LDTexts>
+    </Toolbar>
+  </Toolbars>
+  <Scripts>
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45488.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45489.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45490.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45491.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45492.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45493.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45494.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45495.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45500.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45499.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45496.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_45497.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick1_14815233_45412.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick2_14815233_45413.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick3_14815233_45414.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick4_14815233_45415.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick5_14815233_45418.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick6_14815233_45419.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick7_14815233_45420.bmo" />
+  </Scripts>
+  <MainMenu Name="Menu_1" Enabled="-1" Visible="-1" PasswordLevel="0" MaskColor="16711935">
+    <MenuItems>
+      <MenuItem Name="Menu_command_1" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="" Image="" ID="9">
+        <MenuItems>
+          <MenuItem Name="Menu_command_2" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45488" Image="kiet_exxit.png" ID="10">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Exit" />
+            </LDTexts>
+          </MenuItem>
+        </MenuItems>
+        <LDTexts>
+          <LDText LCID="1033" Text="Options" />
+        </LDTexts>
+      </MenuItem>
+      <MenuItem Name="Menu_command_3" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="3" Key="" Image="" ID="11">
+        <MenuItems>
+          <MenuItem Name="Menu_command_4" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45489" Image="kiet_home.png" ID="12">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Main Sreen" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_5" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45490" Image="kiet_report (2).png" ID="13">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Trend Station 1" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_6" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45491" Image="kiet_report (2).png" ID="14">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Trend Station 2" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_7" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45492" Image="kiet_report (2).png" ID="15">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Trend Station 3" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_8" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45493" Image="kiet_alarm.png" ID="16">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Alarm" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_9" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45494" Image="kiet_report.png" ID="17">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Report" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_10" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="1" Key="OnMenuToolbarClick0_14815233_45495" Image="kiet_user.png" ID="18">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="User Management" />
+            </LDTexts>
+          </MenuItem>
+        </MenuItems>
+        <LDTexts>
+          <LDText LCID="1033" Text="View" />
+        </LDTexts>
+      </MenuItem>
+      <MenuItem Name="Menu_command_11" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="" Image="" ID="19">
+        <MenuItems>
+          <MenuItem Name="Menu_command_12" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45500" Image="kiet_login.png" ID="20">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Log In" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_13" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Key="OnMenuToolbarClick0_14815233_45499" Image="kiet_logout.png" ID="21">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Log Out" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_14" UserData="" Enabled="0" Separator="0" Visible="-1" PasswordLevel="1" Key="OnMenuToolbarClick0_14815233_45496" Image="kiet_changepasswd.png" ID="22">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Change Password" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_15" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="1" Key="OnMenuToolbarClick0_14815233_45497" Image="kiet_user.png" ID="23">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="User Management" />
+            </LDTexts>
+          </MenuItem>
+        </MenuItems>
+        <LDTexts>
+          <LDText LCID="1033" Text="User" />
+        </LDTexts>
+      </MenuItem>
+    </MenuItems>
+  </MainMenu>
+</HMIMTConfig>
